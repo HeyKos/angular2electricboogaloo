@@ -1,0 +1,7 @@
+## MAC OS
+.DS_Store
+
+## PROJECT::SPECIFIC
+node_modules
+npm-debug.log
+vendor
